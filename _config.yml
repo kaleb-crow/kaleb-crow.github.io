@@ -1,7 +1,8 @@
+  
 # site settings
 title: Forty
 subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
+email: kcrowther32@gmail.com
 description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
